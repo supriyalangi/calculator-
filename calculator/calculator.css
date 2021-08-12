@@ -1,0 +1,22 @@
+.formstyle{
+    width:189px ;
+    height:285px;
+    margin:auto;
+    border: 2px solid black;
+    background-color: black;
+
+}
+input{
+    width: 60px;
+}
+input:hover{
+    background-color: blue;
+}
+.answer{
+width: 180px;
+
+}
+
+.clear{
+    width: 124px;
+}
